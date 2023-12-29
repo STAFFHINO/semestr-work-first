@@ -1,0 +1,33 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #000;
+    background: #fff;
+}
+
+img {
+    max-height: 100%;
+
+}
+
+section {
+    padding: 50px 0;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.col-md-3 .filter {
+    background: gray;
+}
+
+.product-card {
+    margin-top: 20px;
+}
+
